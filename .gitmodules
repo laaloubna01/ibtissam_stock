@@ -1,0 +1,3 @@
+[submodule "frontend_stock"]
+	path = frontend_stock
+	url = https://github.com/laaloubna01/frontend_stock.git
